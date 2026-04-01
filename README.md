@@ -1,1 +1,1 @@
-# eos-strawberry-landing
+index.html
